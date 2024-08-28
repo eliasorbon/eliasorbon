@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 ## Featured Data Projects:
-1. [Climate Trends Dashboard](https://github.com/eliasorbon/climate-trends-dashboard): Visualizing climate changes across time.
+1. [Climate Trends Dashboard](https://github.com/eliasorbon/climate-trends-dashboard): Visualizing climate changes across time. (Python)
 2. [Upgraded Nordic Fertility Dashboard](https://github.com/eliasorbon/nordic_fertility_dashboard_upgraded): Upgraded data dashboard visualizing Nordic fertility trends. (Python)
 3. [Nordic Fertility Dashboard](https://github.com/eliasorbon/nordic_fertility_dashboard): Data dashboard visualizing Nordic fertility trends. (Python)
 4. [COVID-19 Dashboard](https://github.com/eliasorbon/covid_data_dashboard): Interactive visualization of COVID-19 data. (Python)
