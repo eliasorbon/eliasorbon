@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 ## Featured Data Projects:
-1. [Iris Dataset Analaysis Project](https://github.com/eliasorbon/iris_data_analysis_project): Analysis and visualization of the classic Iris dataset. (Python)
+1. [Iris Dataset Analysis Project](https://github.com/eliasorbon/iris_data_analysis_project): Analysis and visualization of the classic Iris dataset. (Python)
 2. [Climate Trends Dashboard](https://github.com/eliasorbon/climate-trends-dashboard): Visualizing climate changes across time. (Python)
 3. [Upgraded Nordic Fertility Dashboard](https://github.com/eliasorbon/nordic_fertility_dashboard_upgraded): Upgraded data dashboard visualizing Nordic fertility trends. (Python)
 4. [Nordic Fertility Dashboard](https://github.com/eliasorbon/nordic_fertility_dashboard): Data dashboard visualizing Nordic fertility trends. (Python)
